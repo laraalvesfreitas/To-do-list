@@ -22,3 +22,4 @@ Este projeto foi criado com foco em prática de desenvolvimento front-end, espec
 ## Próximos passos
 * Implementar edição de tarefas
 * Melhorar o design da interface
+
